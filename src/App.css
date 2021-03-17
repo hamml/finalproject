@@ -40,10 +40,13 @@
   height:14rem;
   width:10rem;
   margin-right:10px;
-  background:url(http://www.freeiconspng.com/uploads/retrowave-sun-with-alpha-background-vaporwave-png-27.png);
+  border:1px solid rgb(0, 130, 180);
+  border-width:0.1rem;
+  background:url(https://media-exp1.licdn.com/dms/image/C5635AQF1Tsv7ELrCxg/profile-framedphoto-shrink_400_400/0/1613989830747?e=1616054400&v=beta&t=yP6O6qIJOeAITeOAuep12E15GswUO2H3sA5Z5S3p6DU);
   background-repeat:no-repeat;
   background-position:center;
   background-size:cover;
+  padding:2rem;
 }
 
 .body{
@@ -54,7 +57,7 @@
   font-size:1.2rem;
   font-weight:normal;
   color:rgb(0, 130, 180);
-  padding: 2rem;
+  padding:2rem;
 }
 
 .footer{
